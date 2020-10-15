@@ -1,5 +1,7 @@
 import java.text.DecimalFormat;
 
+/** This class was provided by Richard Paige from Woodside Priory. */
+
 public class Vector {
 
 	private double[] vector;
